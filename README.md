@@ -1,9 +1,9 @@
-#  Flag Quiz Game (Geliştirilmeye Açık Sürüm)
+#  Flag Quiz Game 
 
 Bu proje, orijinalinde üniversite dersim kapsamında bir **grup projesi** olarak geliştirilmiştir. 
 Projenin temel iskeleti ve dosya okuma algoritması, proje ekibi tarafından oluşturulmuştur.
 
-##  Benim Amacım ve Katkılarım (My Contributions)
+##  My Contributions
 Ben bu projeyi bir case study olarak devraldım. Amacım, mevcut "Spagetti Kod" yapısını temizleyip, modern bir mimariye dönüştürmektir.
 
 **Şu an üzerinde çalıştığım (bana ait) geliştirmeler:**
